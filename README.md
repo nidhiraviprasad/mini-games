@@ -1,4 +1,4 @@
-# MINI GAMES
+# Mini Games
 
   — a collection of Java mini-games and graphics!
   
@@ -7,7 +7,7 @@
   — uses the [APCS library](http://apcs.io/) for graphics
 
 
-## LUNAR LANDER
+## Lunar Lander
 
   — description: a game where the player uses the up arrow to safely land a spaceship on the landing pad!
   
@@ -16,35 +16,35 @@
   — my favorite game from this collection!
   
   
-## MINI GOLF
+## Mini Golf
 
   — description: a game where the mouse is the putter and the player hits it into the hole!
   
   — file name: MiniGolf.java
   
   
-## PADDLE BALL
+## Paddle Ball
 
   — description: a game where the user tries to see how many times they can get the ball to bounce on the paddle!
   
   — file name: Paddle.java
   
   
-## DRAWING PAD
+## Drawing Pad
 
   — description: a pad which draws a line (or a series of circles) at the cursor's location!
   
   — file name: Drawing.java
   
   
-## BOUNCING BALLS
+## Bouncing Balls
 
   — description: a fun graphic of colorful balls bouncing randomly on the screen!
   
   — file name: Bounce.java
   
   
-## GIRAFFE DRAWING
+## Giraffe Drawing
 
   — description: a drawing of a giraffe!
   
