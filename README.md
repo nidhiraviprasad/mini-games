@@ -7,7 +7,7 @@
   — uses the [APCS library](http://apcs.io/) for graphics
 
 
-## Lunar Lander
+### Lunar Lander
 
   — description: a game where the player uses the up arrow to safely land a spaceship on the landing pad!
   
@@ -16,35 +16,35 @@
   — my favorite game from this collection!
   
   
-## Mini Golf
+### Mini Golf
 
   — description: a game where the mouse is the putter and the player hits it into the hole!
   
   — file name: MiniGolf.java
   
   
-## Paddle Ball
+### Paddle Ball
 
   — description: a game where the user tries to see how many times they can get the ball to bounce on the paddle!
   
   — file name: Paddle.java
   
   
-## Drawing Pad
+### Drawing Pad
 
   — description: a pad which draws a line (or a series of circles) at the cursor's location!
   
   — file name: Drawing.java
   
   
-## Bouncing Balls
+### Bouncing Balls
 
   — description: a fun graphic of colorful balls bouncing randomly on the screen!
   
   — file name: Bounce.java
   
   
-## Giraffe Drawing
+### Giraffe Drawing
 
   — description: a drawing of a giraffe!
   
